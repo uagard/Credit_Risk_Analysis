@@ -27,11 +27,11 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
  ### 2.SMOTE Oversampling Model
  
- ![](images/acc_score_SMOTE.png)
+ ![image](https://user-images.githubusercontent.com/102105537/183309903-9781167a-3bf7-43c9-b1e7-412b02436273.png)
  
- ![](images/SMOTE_Oversampling_cm.png)
+ ![image](https://user-images.githubusercontent.com/102105537/183309919-60c17276-0019-4381-8880-d446dd4b2943.png)
  
- ![](images/SMOTE_Oversampling_CR.png)
+ ![image](https://user-images.githubusercontent.com/102105537/183309936-137c1920-9ccb-41f0-b5ad-373801352106.png)
  
  #### Observations
  
