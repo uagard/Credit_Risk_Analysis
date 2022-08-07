@@ -14,7 +14,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ![](images/accuracy_score_random_oversampling.png)
 
-![](images/random_oversampling_confusion_matrix.png)
+![image](https://user-images.githubusercontent.com/102105537/183309747-cf389f03-1af3-4e32-9846-eb4e3a6cb8f2.png)
 
 ![](images/random_oversampling_classification_report.png)
 
