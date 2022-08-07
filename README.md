@@ -39,13 +39,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
  2. The precision is low for high-risk loans at .01 and high for low risk loans at 1
  3. The recall is similar for both high-risk and low-risk loans at approximately .63
 
-### 3.Cluster Centroids Undersampling Model
-
-![](images/acc_Score_CC.png)
-
-![](images/CC_Undersampling_CM.png)
-
-![](images/CC_Undersampling_CR.png)
+### 3.Cluster Centroids Undersampling 
 
 #### Observations
 
@@ -54,13 +48,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is around .57 and for low-risk loans is around .46
 
 
-### 4.SMOTEENN Model
-
-![](images/acc_score_SMOTEENN.png)
-
-![](images/SMOTEENN_CM.png)
-
-![](images/SMOTEENN_CR.png)
+### 4.SMOTEENN 
 
 #### Observations
 
@@ -69,13 +57,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is around .7 and for low-risk loans is around .54
 
 
-### 5.BalancedRandomForestClassifier Model
-
-![](images/acc_score_brfc.png)
-
-![](images/brfc_CM.png)
-
-![](images/brfc_CR.png)
+### 5.BalancedRandomForestClassifier 
 
 #### Observations
 
@@ -84,11 +66,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 3. The recall for high-risk loans is approximately .67 and for low-risk loans is approximately .91
 
 
-### 6.EasyEnsembleClassifier Model
-
-![](images/acc_score_EEC.png)
-![](images/eec_CM.png)
-![](images/eec_CR.png)
+### 6.EasyEnsembleClassifier 
 
 #### Observations
 
