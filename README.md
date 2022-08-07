@@ -22,7 +22,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 1. The balanced accuracy score of the Random Oversampling Model is approximately 63%
 2. The precision for high-risk loans is very low at .01 and very high for low-risk loans at 1
-3. The recall for high-risk loans is around .57 and it is  .68 for low-risk loans
+3. The recall for high-risk loans is around .62 and it is  .63 for low-risk loans
 
 
  ### 2.SMOTE Oversampling Model
