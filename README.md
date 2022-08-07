@@ -63,7 +63,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 1. The balanced accuracy score for this model is approximately 79%
 2. The precision for high-risk loans is approximately .04 and for low-risk loans is 1
-3. The recall for high-risk loans is approximately .67 and for low-risk loans is approximately .91
+3. The recall for high-risk loans is approximately .70 and for low-risk loans is approximately .87
 
 
 ### 6.EasyEnsembleClassifier 
@@ -72,7 +72,7 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 1. The balanced accuracy score for this model is approximately 93%
 2. The precision for high-risk loans is approximately .07 and 1 for low-risk loans
-3. The recall for high-risk loans is approximately .91 and .94 for low-risk loans
+3. The recall for high-risk loans is approximately .92 and .94 for low-risk loans
 
 
 **Note**
@@ -83,4 +83,4 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ## Summary
 
-All the models used to perform the credit risk analysis show low precision in determining high-risk loans. The ensemble models did a better job overall compared to the resampling models. Out of the 6 machine learning models used, the EasyEnsemble Classifier model shows an accuracy score of 93% with high recall rates of .91 and .94 for high-risk and low-risk loans respectively, which means that this model is able to correctly identify the high-risk cases. Therefore, I would recommend using the EasyEnsemble Classifier model over the others. However, one downside of this model is that it has a low precision rate for high-risk cases which means there are many false positive cases. But in this scenario, I believe higher sensitivity is more important than precision because it is better for the company to wrongly classify low-risk cases as high-risk than have high-risk applicants classified as low-risk. The company can further analyze the high-risk cases before reaching a conclusion.
+I utilized all of the models to determine the pergfomance of the credit risk analysis. The analysis shows low precision in determining high-risk loans. The models overall looked like there was a better job compared to the resampling models. Of the 6 machine learning models used, the EasyEnsemble Classifier model shows an accuracy score of 93% with high recall rates of .91 and .94 for high-risk and low-risk loans. This observation means that this model should be able to correctly identify the high-risk cases. I would recommend that using the EasyEnsemble Classifier model. The drawback to this model is that it has a low precision rate for high-risk cases which means there are many false positive cases. The company can further analyze the high-risk cases before reaching a conclusion.
