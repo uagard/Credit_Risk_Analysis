@@ -12,11 +12,11 @@ This project has been undertaken on behalf of "Fast Lending", a fictitious peer 
 
 ### 1.Random Oversampling Model
 
-![](images/accuracy_score_random_oversampling.png)
+![image](https://user-images.githubusercontent.com/102105537/183309787-581277c4-a6cf-413f-8f1b-c74da5b2a750.png)
 
 ![image](https://user-images.githubusercontent.com/102105537/183309747-cf389f03-1af3-4e32-9846-eb4e3a6cb8f2.png)
 
-![](images/random_oversampling_classification_report.png)
+![image](https://user-images.githubusercontent.com/102105537/183309818-65c2d5b4-7bbd-499a-b0b7-df996527643b.png)
 
 #### Observations
 
